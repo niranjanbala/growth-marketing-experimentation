@@ -76,6 +76,13 @@ These strategies follow a **data-driven experimentation approach**:
 - Attribution modeling
 - ROI measurement and optimization
 
+## AI-Enhanced Framework Documents
+
+This repository includes comprehensive AI-enhanced frameworks that provide strategic guidance for building intelligent growth marketing systems:
+
+### **[Intelligent Experimentation Systems](intelligent-experimentation-systems.md)**
+Complete framework for building learning-driven growth intelligence systems that understand customer behavior, predict experiment outcomes, and create sustainable growth through continuous learning and strategic optimization.
+
 ## Contributing
 
 Found an issue or want to improve a strategy?
